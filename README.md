@@ -1,8 +1,5 @@
 # 안녕하세요, React, React Native 프론트엔드 개발자 박중섭입니다! 👋
 
-## 🚀 About Me
-React Native 개발자로서 “사용자 중심”의 개발을 지향하며, 더 나은 사용자 경험을 위해 끊임없이 고민하고 노력합니다.
-
 ## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
