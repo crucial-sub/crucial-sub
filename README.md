@@ -1,4 +1,9 @@
-# 안녕하세요, React, React Native 프론트엔드 개발자 박중섭입니다! 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JungsubPark%20%20&height=200&fontSize=100)
+
+# Hi there 👋
+### I'm React & React Native Developer 👨🏻‍💻
+
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/crucial-sub&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -10,10 +15,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 ## 🔭 I'm currently working on
-- LOCAT 프로젝트 React Native 앱 개발
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=crucial-sub&show_icons=true&theme=radical)
+- LOCAT 프로젝트 React Native 앱 개발
 
 ## 🏆 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crucial-sub&layout=compact)
